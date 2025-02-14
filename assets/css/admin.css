@@ -1,0 +1,17 @@
+/* Admin Styles for LearnDash Assignment Grading */
+.wrap {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.wrap h1 {
+    color: #23282d;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 200px;
+}
